@@ -1,0 +1,89 @@
+{
+  "app": {
+    "name": "Adintel",
+    "tagline": "Ad Intelligence Platform"
+  },
+  "auth": {
+    "login": "Login",
+    "logout": "Logout",
+    "email": "Email",
+    "password": "Password",
+    "remember_me": "Remember me",
+    "forgot_password": "Forgot password?",
+    "login_error": "Invalid credentials",
+    "welcome_back": "Welcome back"
+  },
+  "navigation": {
+    "dashboard": "Dashboard",
+    "reports": "Reports",
+    "integrations": "Integrations",
+    "settings": "Settings"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "objective": "Objective",
+    "date_range": "Date Range",
+    "filters": "Filters",
+    "export": "Export",
+    "refresh": "Refresh"
+  },
+  "objectives": {
+    "awareness": "Awareness",
+    "leads": "Leads",
+    "sales": "Sales",
+    "calls": "Calls"
+  },
+  "kpis": {
+    "cpm": "CPM",
+    "cpl": "CPL",
+    "cpc": "CPC",
+    "ctr": "CTR",
+    "cvr": "CVR",
+    "roas": "ROAS",
+    "cpa": "CPA",
+    "aov": "AOV",
+    "cost_per_call": "Cost per Call",
+    "call_conversion_rate": "Call Conversion Rate",
+    "reach": "Reach",
+    "frequency": "Frequency",
+    "vtr": "VTR",
+    "spend": "Spend",
+    "revenue": "Revenue",
+    "impressions": "Impressions",
+    "clicks": "Clicks",
+    "leads": "Leads",
+    "calls": "Calls",
+    "purchases": "Purchases"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "view": "View",
+    "create": "Create",
+    "update": "Update",
+    "search": "Search",
+    "filter": "Filter",
+    "clear": "Clear",
+    "apply": "Apply",
+    "close": "Close"
+  },
+  "date": {
+    "today": "Today",
+    "yesterday": "Yesterday",
+    "last_7_days": "Last 7 days",
+    "last_30_days": "Last 30 days",
+    "this_month": "This month",
+    "last_month": "Last month",
+    "custom": "Custom"
+  },
+  "platforms": {
+    "facebook": "Facebook",
+    "google": "Google",
+    "tiktok": "TikTok"
+  }
+}

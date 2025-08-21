@@ -1,0 +1,89 @@
+{
+  "app": {
+    "name": "أدانتل",
+    "tagline": "منصة ذكاء الإعلانات"
+  },
+  "auth": {
+    "login": "تسجيل الدخول",
+    "logout": "تسجيل الخروج",
+    "email": "البريد الإلكتروني",
+    "password": "كلمة المرور",
+    "remember_me": "تذكرني",
+    "forgot_password": "نسيت كلمة المرور؟",
+    "login_error": "بيانات اعتماد غير صحيحة",
+    "welcome_back": "مرحباً بعودتك"
+  },
+  "navigation": {
+    "dashboard": "لوحة التحكم",
+    "reports": "التقارير",
+    "integrations": "التكاملات",
+    "settings": "الإعدادات"
+  },
+  "dashboard": {
+    "title": "لوحة التحكم",
+    "objective": "الهدف",
+    "date_range": "نطاق التاريخ",
+    "filters": "المرشحات",
+    "export": "تصدير",
+    "refresh": "تحديث"
+  },
+  "objectives": {
+    "awareness": "الوعي",
+    "leads": "العملاء المحتملون",
+    "sales": "المبيعات",
+    "calls": "المكالمات"
+  },
+  "kpis": {
+    "cpm": "تكلفة الألف ظهور",
+    "cpl": "تكلفة العميل المحتمل",
+    "cpc": "تكلفة النقرة",
+    "ctr": "معدل النقر",
+    "cvr": "معدل التحويل",
+    "roas": "عائد الإنفاق الإعلاني",
+    "cpa": "تكلفة الاكتساب",
+    "aov": "متوسط قيمة الطلب",
+    "cost_per_call": "تكلفة المكالمة",
+    "call_conversion_rate": "معدل تحويل المكالمات",
+    "reach": "الوصول",
+    "frequency": "التكرار",
+    "vtr": "معدل مشاهدة الفيديو",
+    "spend": "الإنفاق",
+    "revenue": "الإيرادات",
+    "impressions": "الظهور",
+    "clicks": "النقرات",
+    "leads": "العملاء المحتملون",
+    "calls": "المكالمات",
+    "purchases": "المشتريات"
+  },
+  "common": {
+    "loading": "جاري التحميل...",
+    "error": "خطأ",
+    "success": "نجح",
+    "cancel": "إلغاء",
+    "save": "حفظ",
+    "delete": "حذف",
+    "edit": "تعديل",
+    "view": "عرض",
+    "create": "إنشاء",
+    "update": "تحديث",
+    "search": "بحث",
+    "filter": "تصفية",
+    "clear": "مسح",
+    "apply": "تطبيق",
+    "close": "إغلاق"
+  },
+  "date": {
+    "today": "اليوم",
+    "yesterday": "أمس",
+    "last_7_days": "آخر 7 أيام",
+    "last_30_days": "آخر 30 يوماً",
+    "this_month": "هذا الشهر",
+    "last_month": "الشهر الماضي",
+    "custom": "مخصص"
+  },
+  "platforms": {
+    "facebook": "فيسبوك",
+    "google": "جوجل",
+    "tiktok": "تيك توك"
+  }
+}
